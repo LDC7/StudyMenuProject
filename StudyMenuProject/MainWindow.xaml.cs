@@ -23,6 +23,7 @@ namespace StudyMenuProject
         public MainWindow()
         {
             InitializeComponent();
+	//я здесь был
         }
     }
 }

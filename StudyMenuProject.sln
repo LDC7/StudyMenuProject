@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyMenuProject", "StudyMenuProject\StudyMenuProject.csproj", "{942D9482-44BD-4F6C-AA73-875B477BD303}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{4AEEB99E-1CCF-4E40-8911-DE4F40C198D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{942D9482-44BD-4F6C-AA73-875B477BD303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942D9482-44BD-4F6C-AA73-875B477BD303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942D9482-44BD-4F6C-AA73-875B477BD303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEEB99E-1CCF-4E40-8911-DE4F40C198D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEEB99E-1CCF-4E40-8911-DE4F40C198D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEEB99E-1CCF-4E40-8911-DE4F40C198D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEEB99E-1CCF-4E40-8911-DE4F40C198D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
